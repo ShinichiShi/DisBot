@@ -52,28 +52,11 @@ This mainly servese as a bridge to the modern github to be available for teens i
 Our mission is to create a vibrant, self-sustaining community for remote workers. By fostering collaboration and skill development, we aim to make the virtual island an engaging and productive space for everyone.
 
 ---
-# Contributing
 
-We welcome contributions to DisBot! Here’s how you can help:
-
-1. Fork the repository.
-2. Raise any issue
-3. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-4. Commit your changes:
-   ```bash
-   git commit -m 'Add feature-name'
-   ```
-5. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-6. Open a pull request.
+## Contributing: 
+You can actively contribute to this project after going through the [Contributing.md](Contributing.md)
 
 ---
 
----
 ## License
 This project is licensed under the [MIT License](LICENSE).
