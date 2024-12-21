@@ -48,7 +48,9 @@ This mainly servese as a bridge to the modern github to be available for teens i
 4. Connect, collaborate, and grow your skills while supporting the community!
 ---
 ## 🎯 Vision
+
 Our mission is to create a vibrant, self-sustaining community for remote workers. By fostering collaboration and skill development, we aim to make the virtual island an engaging and productive space for everyone.
+
 ---
 # Contributing
 
